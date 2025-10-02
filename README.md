@@ -4,6 +4,22 @@ This is a blog type application using Strapi as backend CMS and SvelteKit for fr
 
 # Strapi
 
+### `variables`
+
+Here is the list of variables you'll need
+
+```
+HOST=0.0.0.0
+PORT=1337
+APP_KEYS="toBeModified1,toBeModified2"
+API_TOKEN_SALT=tobemodified
+ADMIN_JWT_SECRET=tobemodified
+TRANSFER_TOKEN_SALT=tobemodified
+JWT_SECRET=tobemodified
+ENCRYPTION_KEY=tobemodified
+
+```
+
 ### `develop`
 
 Start the Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
