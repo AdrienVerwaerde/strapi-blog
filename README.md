@@ -1,5 +1,5 @@
 # Strapi Blog
-This is an blog type application using Strapi as backend CMS and SvelteKit for frontend. You'll find just under this all you need to know to correctly launch the app on your machine.
+This is a blog type application using Strapi as backend CMS and SvelteKit for frontend. You'll find just under this all you need to know to correctly launch the app on your machine.
 
 
 # Strapi
@@ -49,3 +49,4 @@ npm run dev
 npm run dev -- --open
 ```
 
+# Have fun and happy blogging !
